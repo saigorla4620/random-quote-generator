@@ -1,0 +1,31 @@
+.main{
+  height: 100vh;
+  background-image: url("../public/Alone.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.heading{
+  position: relative;
+  bottom: 30px;
+  color: rgb(244, 21, 21);
+  font-weight: 500; 
+}
+.hr{
+  width: 10%;
+  position: relative;
+  bottom: 30px;
+  margin-left: 300px;
+  border-style:solid;
+  color: red;
+  
+}
+.author{
+  margin-left: 400px;
+  size: 25px;
+  color: blue;
+  margin-top: 25px;
+}
+.quote{
+  color: rgb(26, 41, 243);
+  font-weight: 500;
+}
